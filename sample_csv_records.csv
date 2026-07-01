@@ -1,0 +1,12 @@
+record,threat_info,registration_date,registrar,registrant,nameserver_names
+threat0.com,"[{""threat_type"":""PHISHING"",""threat_label"":""Known Phishing"",""severity"":""High""}]",,,,
+threat1.com,"[{""threat_type"":""PHISHING"",""threat_label"":""Known Phishing"",""severity"":""High""}]",,,,
+threat4.com,"[{""threat_type"":""PHISHING"",""threat_label"":""Known Phishing"",""severity"":""High""}]",,,,
+threat9.com,"[{""threat_type"":""PHISHING"",""threat_label"":""Known Phishing"",""severity"":""High""}]",,,,
+adult1.com,"[{""threat_type"":""MALWARE"",""threat_label"":""Malware"",""severity"":""High""}]",,,,
+adult2.com,"[{""threat_type"":""MALWARE"",""threat_label"":""Malware"",""severity"":""High""}]",,,,
+suspi1.com,"[{""threat_type"":""MALWARE"",""threat_label"":""Malware"",""severity"":""High""}]",,,,
+suspi2.com,"[{""threat_type"":""MALWARE"",""threat_label"":""Malware"",""severity"":""High""}]",,,,
+new1.com,"[{""threat_type"":""CNC"",""threat_label"":""Command & Control"",""severity"":""High""}]",,,,
+new2.com,"[{""threat_type"":""CNC"",""threat_label"":""Command & Control"",""severity"":""High""}]",,,,
+new3.com,"[{""threat_type"":""CNC"",""threat_label"":""Command & Control"",""severity"":""High""}]",,,,
