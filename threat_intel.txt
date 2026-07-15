@@ -3,3 +3,5 @@
 ||threat2.com^
 ||threat3.com^
 ||threat4.com^
+||controld.com
+||draw.io^
